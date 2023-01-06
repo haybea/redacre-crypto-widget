@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600&display=swap");
+:root {
+  --dark: #1e2329;
+  --light: #fafafa;
+  --success: #03a66d;
+  --danger: #cf304a;
+}
+* {
+  font-family: "Open Sans", sans-serif;
+}
+body{
+  font-size:14px;
+  font-weight: 400;
+}
+.select-item{
+  padding: 5px 10px;
+}
+.select-item:hover{
+  background-color: #EEEEEE;
+}
+.exchange-card{
+  
+  padding-top:5%;
+  padding-bottom:2%;
+  box-shadow: 0px 8px 16px rgba(17, 17, 17, 0.06);
+}
+.container-inner{
+  padding: 10px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  box-shadow: 0px 8px 16px rgba(17, 17, 17, 0.06);
+}
+input,select{
+  border-radius: 8px;
+}
+label{
+  color: #9C9C9C;
+}
+thead{
+  height: 30px;
+  background-color: #EEEEEE;
+}
+.table-striped tbody tr:nth-of-type(2n+2) td {
+  /* background: green; */
+}
+.filter-btn{
+  color: #1B31A8;
+  border-radius: 8px;
+  border: 1px solid #1B31A8;
+  margin: inherit 20px !important;
+}
+.filter-btn:hover{
+  border: 1px solid #000;
+}
+.picker{
+  /* background-color: yellow; */
+  border-width: 1px;
+  /* padding: 10px;
+  font-size: 14px; */
+  width: 100%;
+}
+
+
