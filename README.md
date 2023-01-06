@@ -1,5 +1,4 @@
 # redacre-crypto-widget
-# Maker-Checker Admin
 This widget displays several currency exchanges rates and allows the user to exchange USD for
 Crypto. The application consists of a React front-end client and a Node back-end
 service (Nest.js). The backend can be found here https://github.com/haybea/redacre-crypto-exchange
