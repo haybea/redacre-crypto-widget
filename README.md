@@ -29,8 +29,8 @@ If you want to embed this widget in your app/custom layout. Copy the following f
 
 After that, add the two files into the head of the document
 ```
-<script defer="defer" src="./static/js/main.43d4dac6.js"></script>
-<link href="./static/css/main.6196addc.css" rel="stylesheet" />
+<script defer="defer" src="./PATH_TO_FILE/main.43d4dac6.js"></script>
+<link href="./PATH_TO_FILE/main.6196addc.css" rel="stylesheet" />
 ```
 
 #### Embed the exchange toolbar
